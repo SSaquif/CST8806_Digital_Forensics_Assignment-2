@@ -1,0 +1,9 @@
+Date/Time (UTC),Computer,Remarks,File Path/Command
+10-10-2021 08:14:47,ABC-DC1,Execution of PYSA Payload,"powershell.exe -ExecutionPolicy Bypass -file \\ABC-DC1\share$\p.ps1
+	"
+10-10-2021 08:15:12,ABC-DATA,Execution of PYSA Payload,"powershell.exe -ExecutionPolicy Bypass -file \\ABC-DC1\share$\p.ps1
+	"
+10-10-2021 08:15:13,ABC-DC2,Execution of PYSA Payload,"powershell.exe -ExecutionPolicy Bypass -file \\ABC-DC1\share$\p.ps1
+	"
+10/13/2021 06:18:48,ABC-DC1,Execution of PYSA Payload,"powershell_ise.exe C:\share$\p.ps1
+	"

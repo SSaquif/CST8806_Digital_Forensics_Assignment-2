@@ -1,0 +1,8 @@
+Date/Time (UTC),System Name,Event ID,User Name,Target Username,Target User SID,Remarks
+10-13-2021 07:01:49,ABC-DATA,An attempt was made to reset an account's password. (4724),ABCADMIN,Administrator,S-1-5-21-339288200-2978193951-821539523-500,Password Changed
+10-13-2021 07:01:49,ABC-DATA,An attempt was made to reset an account's password. (4724),ABCADMIN,DefaultAccount,S-1-5-21-339288200-2978193951-821539523-503,Password Changed
+10-13-2021 07:01:49,ABC-DATA,An attempt was made to reset an account's password. (4724),ABCADMIN,Guest,S-1-5-21-339288200-2978193951-821539523-501,Password Changed
+10-13-2021 07:01:49,ABC-DATA,An attempt was made to reset an account's password. (4724),ABCADMIN,WDAGUtilityAccount,S-1-5-21-339288200-2978193951-821539523-504,Password Changed
+10-13-2021 08:16:15,DDMS2,An attempt was made to reset an account's password. (4724),ABCADMIN,Administrator,S-1-5-21-2538705348-3825617671-1267569224-500,Password Changed
+10-13-2021 08:16:15,DDMS2,An attempt was made to reset an account's password. (4724),ABCADMIN,ddms101773,S-1-5-21-2538705348-3825617671-1267569224-1001,Password Changed
+10-13-2021 08:16:15,DDMS2,An attempt was made to reset an account's password. (4724),ABCADMIN,Guest,S-1-5-21-2538705348-3825617671-1267569224-501,Password Changed

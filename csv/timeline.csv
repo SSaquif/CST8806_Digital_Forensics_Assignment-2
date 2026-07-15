@@ -1,0 +1,100 @@
+Date/Time (UTC),System Name,Artifact,File/ Service Name,Path,Event ID/ Hash,Username,Source IP Address,Source Country,Source State,Source ASN,ASN Type
+10-08-2021 03:42:39,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,185.56.80.65,Seychelles,,NForce Entertainment B.V.,TOR
+10-08-2021 09:08:05,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,185.56.80.65,Seychelles,,NForce Entertainment B.V.,TOR
+10-08-2021 09:09:17,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,
+10-08-2021 09:09:17,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,185.220.100.246,Germany,Bavaria,F3 Netze e.V.,TOR
+10-08-2021 10:06:34,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,185.220.100.246,Germany,Bavaria,F3 Netze e.V.,TOR
+10-08-2021 10:40:02,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,200.200.200.83,,,,
+10-08-2021 12:59:33,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-08-2021 13:22:12,DDMS2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.153,,,,
+10-08-2021 13:24:28,DDMS2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.153,,,,
+10-08-2021 18:50:20,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-08-2021 23:54:52,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\iusr,87.251.64.138,Russia,Moscow,Dmitriy Panchenko,DCH
+10-08-2021 23:55:06,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\iusr,87.251.64.138,Russia,Moscow,Dmitriy Panchenko,DCH
+10-09-2021 03:53:52,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 03:56:04,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 03:57:00,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,
+10-09-2021 03:57:00,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 04:07:44,RDS,User Assist,,C:\Users\UPS\AppData\Local\Temp\AccountRestore.exe,,ABC\UPS,,,,,
+10-09-2021 05:15:08,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 07:26:23,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 08:44:27,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 08:44:30,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 08:59:19,ABC-DC1,Amcache,Psexec.exe,C:\share$\Psexec.exe,e50d9e3bd91908e13a26b3e23edeaf577fb3a095,,,,,,
+10-09-2021 08:59:34,ABC-DC1,User Assist,,C:\share$\S0.bat,,ABC\ABCadmin,,,,,
+10-09-2021 10:26:57,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.9,,,,
+10-10-2021 07:38:52,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 08:04:30,ABC-DC1,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:04:30,ABC-DC1,Amcache,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,a17c21b909c56d93d978014e63fb06926eaea8e7,,,,,,
+10-10-2021 08:04:31,RDS,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:04:51,ABC-DC2,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:04:51,ABC-DC2,Amcache,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,a17c21b909c56d93d978014e63fb06926eaea8e7,,,,,,
+10-10-2021 08:04:53,DDMS2,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:04:54,ABC-DATA,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:14:39,ABC-DC1,User Assist,,C:\share$\Psexec.exe,,ABC\ABCadmin,,,,,
+10-10-2021 08:14:43,ABC-DC1,User Assist,,C:\share$\Servers0.bat,,ABC\ABCadmin,,,,,
+10-10-2021 08:14:44,ABC-DC1,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:14:44,ABC-DC1,Amcache,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,a17c21b909c56d93d978014e63fb06926eaea8e7,,,,,,
+10-10-2021 08:14:45,RDS,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:15:04,ABC-DC2,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:15:04,ABC-DC2,Amcache,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,a17c21b909c56d93d978014e63fb06926eaea8e7,,,,,,
+10-10-2021 08:15:07,DDMS2,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:15:08,ABC-DATA,Service Installation,PSEXESVC.exe,C:\Windows\PSEXESVC.exe,A service was installed in the system. (7045),ABC\ABCadmin,,,,,
+10-10-2021 08:15:28,ABC-DC1,User Assist,,C:\share$\Workstations0.bat,,ABC\ABCadmin,,,,,
+10-10-2021 09:14:32,ABC-DATA,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:24:35,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:27:05,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 10:15:09,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 10:16:38,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-11-2021 10:27:27,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\UPS,200.200.200.83,,,,
+10-11-2021 13:34:05,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-11-2021 14:06:22,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-11-2021 14:12:22,DDMS2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.124,,,,
+10-11-2021 14:16:23,DDMS2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 12:39:33,DDMS2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 12:41:38,DDMS2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 13:33:31,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 16:03:06,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 16:09:55,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 17:55:32,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 18:13:35,RDS,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 19:27:01,DDMS2,User Assist,,C:\ABC-pcl\InvoiceOverlayUpload.bat,,Administrator,,,,,
+10-12-2021 19:27:01,DDMS2,User Assist,,C:\Users\Administrator\Desktop\Overlay Upload.lnk,,Administrator,,,,,
+10-12-2021 21:45:00,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-13-2021 03:49:18,ABC-DATA,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:14:22,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:20:32,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:35:44,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:52:04,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:53:02,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 06:06:33,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 06:30:04,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:00:33,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:03:44,ABC-DATA,User Assist,,C:\Windows\Temp\svchost.exe,,ABC\ABCadmin,,,,,
+10-13-2021 07:07:20,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:25:35,RDS,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,185.220.100.255,Germany,Bavaria,F3 Netze e.V.,TOR
+10-13-2021 08:13:35,DDMS2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.9,,,,
+10-13-2021 08:17:44,DDMS2,User Assist,,C:\Windows\Temp\svchost.exe,,ABC\ABCadmin,,,,,
+10-13-2021 08:17:44,DDMS2,Amcache,svchost.exe,C:\Windows\Temp\svchost.exe,bf2d8dddb1faf0146cba499648dba6e426623dbb,,,,,,
+10-13-2021 08:18:51,DDMS2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.9,,,,
+10-13-2021 08:29:18,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:36:19,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:38:58,DDMS2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.10,,,,
+10-13-2021 08:41:21,DDMS2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.10,,,,
+10-13-2021 08:45:25,ABC-DC2,RDP,,,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:49:11,ABC-DC2,Amcache,svchost.exe,C:\Windows\Temp\svchost.exe,bf2d8dddb1faf0146cba499648dba6e426623dbb,,,,,,
+10-13-2021 09:05:09,ABC-DC2,User Assist,,C:\Windows\Temp\svchost.exe,,ABC\ABCadmin,,,,,
+10-13-2021 09:05:25,ABC-DC2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:10:48,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:11:29,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:34:59,ABC-DATA,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:36:17,ABC-DATA,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:37:12,ABC-DC1,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:38:48,ABC-DC2,RDP,,,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:42:27,RDS,User Assist,,C:\Windows\Temp\svchost.exe,,ABC\ABCadmin,,,,,
+10-13-2021 09:43:33,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,185.220.100.255,Germany,Bavaria,F3 Netze e.V.,TOR
+10-13-2021 10:00:40,ABC-DC1,User Assist,,C:\Users\ABCadmin\AppData\Local\Temp\1\svchost.exe,,ABC\ABCadmin,,,,,
+10-13-2021 10:00:40,ABC-DC1,Amcache,svchost.exe,C:\Users\ABCadmin\AppData\Local\Temp\1\svchost.exe,bf2d8dddb1faf0146cba499648dba6e426623dbb,,,,,,
+10-13-2021 10:01:39,ABC-DC1,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 10:02:08,ABC-DC2,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 12:50:24,RDS,RDP,,,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,

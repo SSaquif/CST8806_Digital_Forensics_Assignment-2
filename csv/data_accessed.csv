@@ -1,0 +1,85 @@
+Date/Time (UTC),System Name,User Name,Artifact,File/Folder Path
+10-09-2021 07:33:00,ABC-DC1,ABC\ABCadmin,Shellbags,C:\share$\
+10-09-2021 07:43:40,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\ABC-DATA\
+10-09-2021 07:48:58,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\LAPTOP20\
+10-09-2021 08:12:08,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\DESKTOP-21\
+10-09-2021 08:13:10,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\ABC-IS-1705\
+10-09-2021 09:32:50,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\DESKTOP-22.ABC.com\
+10-10-2021 08:25:40,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\ABC-DC1.ABC.com\
+10-10-2021 08:25:40,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\ABC-DC2.ABC.com\
+10-10-2021 08:25:44,ABC-DC1,ABC\ABCadmin,Shellbags,C:\Users\Public\Temp\LAPTOP-PC-26.ABC.com\
+10-12-2021 21:58:58,ABC-DATA,ABC\ABCadmin,Shellbags,E:\users\Aarango\Documents\
+10-13-2021 04:52:28,ABC-DATA,ABC\ABCadmin,Shellbags,\\200.200.200.8\c$\
+10-13-2021 04:52:37,ABC-DATA,ABC\ABCadmin,Shellbags,\\200.200.200.8\c$\
+10-13-2021 07:10:44,ABC-DC1,ABC\ABCadmin,Shellbags,\\ABC-data\Functions\Ingredient Orders\1100\1429915\
+10-13-2021 08:26:40,ABC-DATA,ABC\ABCadmin,Shellbags,\\200.200.200.8\c$\Users\Administrator\Desktop\
+10-13-2021 08:27:00,ABC-DATA,ABC\ABCadmin,Shellbags,\\200.200.200.8\c$\Users\Administrator\
+10-13-2021 08:27:28,ABC-DATA,ABC\ABCadmin,Shellbags,\\200.200.200.8\c$\Users\ABCadmin\Desktop\
+10-13-2021 08:41:58,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\
+10-13-2021 08:47:16,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\Administrator\
+10-13-2021 08:47:16,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\DCS_ABC-DATA\
+10-13-2021 08:47:16,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\Administrator\Desktop\
+10-13-2021 08:47:58,DDMS2,ABC\ABCadmin,Shellbags,\\ABC-DATA\c$\Users\ABCadmin\
+10-13-2021 08:47:58,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\ABCadmin\
+10-13-2021 08:47:58,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\ABCadmin\Documents\
+10-13-2021 08:47:58,RDS,ABC\ABCadmin,Shellbags,\\ABC-data\c$\Users\ABCadmin\
+10-13-2021 08:49:16,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-dc2\c$\Users\
+10-13-2021 08:49:16,ABC-DC2,ABC\ABCadmin,Shellbags,\\ABC-dc2\c$\Users\
+10-13-2021 08:49:26,ABC-DATA,ABC\ABCadmin,Shellbags,\\ABC-dc2\c$\Users\ABCadmin\
+10-13-2021 08:49:26,ABC-DC2,ABC\ABCadmin,Shellbags,\\ABC-dc2\c$\Users\ABCadmin\
+10-13-2021 08:57:02,ABC-DC1,ABC\ABCadmin,Shellbags,\\ABC-data\Functions\Ingredient Orders\1100\
+10-13-2021 09:40:32,RDS,ABC\ABCadmin,Shellbags,C:\Windows\Temp\
+10-13-2021 08:13:41,DDMS2,ABC\ABCadmin,Jumplists,C:\Users\Administrator\Documents\PZ Output
+10-13-2021 08:13:41,DDMS2,ABC\ABCadmin,Jumplists,C:\Users\Administrator\Documents\PZ Output\PZ_Output.txt
+10-13-2021 06:17:55,ABC-DC1,ABC\ABCadmin,Jumplists,C:\share$
+10-13-2021 04:00:53,ABC-DATA,ABC\ABCadmin,Jumplists,E:\ABC-IT\ABC VPN Configurations.txt
+10-12-2021 19:39:08,RDS,ABC\rdowney,Jumplists,Z:\rdowney
+10-12-2021 19:39:08,RDS,ABC\rdowney,Jumplists,Z:\rdowney\Invoice25204.xlsx
+10-12-2021 18:46:41,RDS,ABC\rdowney,Jumplists,Z:\rdowney\po s47795 lb1-4376 toner (ABC) patuxent (002).pdf
+10-12-2021 16:41:40,RDS,ABC\rdowney,Jumplists,Z:\rdowney\ShippingInvoice.pdf
+10-12-2021 16:40:55,RDS,ABC\rdowney,Jumplists,Z:\rdowney\ShippingInvoice2.pdf
+10-12-2021 15:15:37,RDS,ABC\rdowney,Jumplists,Z:\rdowney\SHIPcookies.xlsx
+10-12-2021 13:57:55,RDS,ABC\rdowney,Jumplists,Z:\rdowney\shippingtemplate.xlsx
+10-12-2021 13:48:40,RDS,ABC\rdowney,Jumplists,Z:\rdowney\client243invorder.xlsx
+10-12-2021 13:45:25,RDS,ABC\rdowney,Jumplists,Z:\rdowney\client243invoice.pdf
+10-12-2021 13:45:19,RDS,ABC\rdowney,Jumplists,Z:\rdowney\client243invoice.pdf.msg
+10-12-2021 13:33:53,RDS,ABC\rdowney,Jumplists,C:\Users\rdowney\Documents\Templates\Recipe.pdf
+10-12-2021 12:41:32,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-11-LOG-PZ_Output.txt
+10-12-2021 12:41:05,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10
+10-12-2021 12:41:05,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-11-QA-PZ_Output.txt
+10-12-2021 12:40:43,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-11-TF-PZ_Output.txt
+10-12-2021 12:40:23,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-11-OA-PZ_Output.txt
+10-11-2021 14:16:13,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-08-LOG-PZ_Output.txt
+10-11-2021 14:15:50,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-08-QA-PZ_Output.txt
+10-11-2021 14:15:26,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-08-TF-PZ_Output.txt
+10-11-2021 14:15:02,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-08-OA-PZ_Output.txt
+10-11-2021 14:14:35,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-07-LOG-PZ_Output.txt
+10-11-2021 14:14:13,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-07-QA-PZ_Output.txt
+10-11-2021 14:13:54,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-07-TF-PZ_Output.txt
+10-11-2021 14:13:36,DDMS2,ABC\ABCadmin,Jumplists,Z:\Accounting\Day End-Text Files\2021-10\2021-10-07-OA-PZ_Output.txt
+10-11-2021 13:56:16,RDS,ABC\rdowney,Jumplists,Z:\rdowney\payments.xlsx
+10-11-2021 13:53:58,RDS,ABC\rdowney,Jumplists,Z:\rdowney\payslips.xlsx
+10-08-2021 15:50:03,RDS,ABC\rdowney,Jumplists,Z:\rdowney\printlabels.xlsx
+10-08-2021 14:07:52,RDS,ABC\rdowney,Jumplists,Z:\rdowney\020-001 Kitchen Reno Report (2021-06-10).pdf
+10-08-2021 13:21:16,RDS,ABC\rdowney,Jumplists,Z:\rdowney\ABCinvoicetemplate.xlsx
+10-13-2021 06:17:50,ABC-DC1,ABC\ABCadmin,LNK Files,C:\share$
+10-12-2021 19:39:08,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\Invoice25204.xlsx
+10-12-2021 16:47:36,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\ABCsignature.png
+10-12-2021 16:41:40,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\ShippingInvoice.pdf
+10-12-2021 16:40:55,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\ShippingInvoice2.pdf
+10-12-2021 13:57:55,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\client587.xlsx
+10-12-2021 13:48:40,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\client243invorder.xlsx
+10-12-2021 12:41:32,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-11-LOG-PZ_Output.txt
+10-12-2021 12:41:32,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10
+10-12-2021 12:41:04,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-11-QA-PZ_Output.txt
+10-12-2021 12:40:43,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-11-TF-PZ_Output.txt
+10-12-2021 12:40:23,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-11-OA-PZ_Output.txt
+10-11-2021 14:16:13,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-08-LOG-PZ_Output.txt
+10-11-2021 14:15:50,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-08-QA-PZ_Output.txt
+10-11-2021 14:15:26,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-08-TF-PZ_Output.txt
+10-11-2021 14:15:02,DDMS2,ABC\ABCadmin,LNK Files,\\ABC-DATA\Functions\Accounting\Day End-Text Files\2021-10\2021-10-08-OA-PZ_Output.txt
+10-11-2021 13:56:16,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\payments.xlsx
+10-11-2021 13:53:59,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\payslips.xlsx
+10-08-2021 15:50:04,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\PrintLabels.xlsx
+10-08-2021 14:07:52,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\020-001 Kitchen Reno Report (2021-06-10).pdf
+10-08-2021 13:21:17,RDS,ABC\rdowney,LNK Files,\\ABC-DATA\Users\rdowney\SHIPbradpitt.xlsx

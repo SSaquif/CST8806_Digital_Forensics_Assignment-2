@@ -1,0 +1,79 @@
+Date/Time (UTC),System,Direction,Event Description,Username,Source IP Address,Source Country,Source State,Source ASN,ASN Type
+10-08-2021 03:42:39,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,185.56.80.65,Seychelles,,NForce Entertainment B.V.,TOR
+10-08-2021 09:08:05,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,185.56.80.65,Seychelles,,NForce Entertainment B.V.,TOR
+10-08-2021 09:09:17,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,
+10-08-2021 09:09:17,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,185.220.100.246,Germany,Bavaria,F3 Netze e.V.,TOR
+10-08-2021 10:06:34,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,185.220.100.246,Germany,Bavaria,F3 Netze e.V.,TOR
+10-08-2021 10:40:02,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,200.200.200.83,,,,
+10-08-2021 12:59:33,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-08-2021 13:22:12,DDMS2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.153,,,,
+10-08-2021 13:24:28,DDMS2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.153,,,,
+10-08-2021 18:50:20,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-08-2021 23:54:52,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\iusr,87.251.64.138,Russia,Moscow,Dmitriy Panchenko,DCH
+10-08-2021 23:54:52,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\iusr,87.251.64.138,Russia,Moscow,Dmitriy Panchenko,DCH
+10-08-2021 23:55:06,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\iusr,87.251.64.138,Russia,Moscow,Dmitriy Panchenko,DCH
+10-09-2021 03:53:52,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 03:53:52,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\rdowney,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 03:56:04,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 03:57:00,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,
+10-09-2021 03:57:00,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\UPS,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 05:15:08,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,23.129.64.164,United States,,EMERALD-ONION,TOR
+10-09-2021 07:26:23,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 08:44:27,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 08:44:30,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.9,,,,
+10-09-2021 10:26:57,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.9,,,,
+10-10-2021 07:38:52,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:14:32,ABC-DATA,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:14:32,ABC-DATA,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:24:35,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 09:27:05,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 10:15:09,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-10-2021 10:16:38,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-11-2021 10:27:27,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\UPS,200.200.200.83,,,,
+10-11-2021 10:27:28,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\UPS,200.200.200.83,,,,
+10-11-2021 13:34:05,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-11-2021 13:34:05,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-11-2021 14:06:22,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-11-2021 14:12:22,DDMS2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.124,,,,
+10-11-2021 14:16:23,DDMS2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 12:39:33,DDMS2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 12:41:38,DDMS2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.124,,,,
+10-12-2021 13:33:31,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 13:33:31,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 16:03:06,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 16:09:55,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 17:55:32,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 18:13:35,RDS,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-12-2021 21:45:00,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\rdowney,104.56.25.161,United States,Alabama,ATT-INTERNET4,NotProxy
+10-13-2021 03:49:18,ABC-DATA,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 03:49:20,ABC-DATA,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:14:22,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:20:32,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:35:44,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:52:04,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 04:53:02,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 06:06:33,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 06:30:04,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:00:33,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:07:20,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 07:25:35,RDS,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,185.220.100.255,Germany,Bavaria,F3 Netze e.V.,TOR
+10-13-2021 07:25:35,RDS,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\ABCadmin,185.220.100.255,Germany,Bavaria,F3 Netze e.V.,TOR
+10-13-2021 08:13:35,DDMS2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.9,,,,
+10-13-2021 08:18:51,DDMS2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.9,,,,
+10-13-2021 08:29:18,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:36:19,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:38:58,DDMS2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCADMIN,200.200.200.10,,,,
+10-13-2021 08:41:21,DDMS2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCADMIN,200.200.200.10,,,,
+10-13-2021 08:45:25,ABC-DC2,Incoming,Remote Desktop Services: Session logon succeeded.(21),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 08:45:26,ABC-DC2,Incoming,Remote Desktop Services: Shell start notification received.(22),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:05:25,ABC-DC2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:10:48,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:11:29,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:34:59,ABC-DATA,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:36:17,ABC-DATA,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:37:12,ABC-DC1,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:38:48,ABC-DC2,Incoming,Remote Desktop Services: Session reconnection succeeded(25),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 09:43:33,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,185.220.100.255,Germany,Bavaria,F3 Netze e.V.,TOR
+10-13-2021 10:01:39,ABC-DC1,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 10:02:08,ABC-DC2,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\ABCadmin,200.200.200.10,,,,
+10-13-2021 12:50:24,RDS,Incoming,Remote Desktop Services: Session has been disconnected.(24),ABC\UPS,200.200.200.83,,,,

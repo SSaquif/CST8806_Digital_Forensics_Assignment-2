@@ -1,0 +1,6 @@
+System Name,Collection Type,Collected By,Operating System,IP Address
+DDMS2,Arete Collector,Client,Windows Server 2012 R2 Standard,"172.20.75.46, 200.200.200.8"
+ABC-DATA,Arete Collector,Client,Windows Server 2019 Standard (1809),200.200.200.16
+ABC-DC1,Arete Collector,Client,Windows Server 2012 R2 Standard,200.200.200.10
+ABC-DC2,Arete Collector,Client,Windows Server 2012 R2 Standard,200.200.200.4
+RDS,Arete Collector,Client,Windows Server 2012 R2 Standard,200.200.200.9
